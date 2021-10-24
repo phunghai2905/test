@@ -181,7 +181,7 @@ padding: 0 21px;
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url(/assets/img/slider/slider1.jpg) top center / cover no-repeat;
+    background: url('../img/slider/slider1.jpg') top center / cover no-repeat;
     
 }
 
@@ -205,6 +205,7 @@ padding: 0 21px;
 #slider .text-description{
     font-size: 15px;
     margin-top: 25px;
+    text-shadow: 0 0 1px #000;
 } 
 
 #content{
